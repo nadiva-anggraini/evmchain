@@ -11,16 +11,16 @@ This project provides a simple module for managing blockchain networks (chains) 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/nadiva-anggraini/evmchain.git
    cd your-repository
 2. Install dependencies:
    ```bash
    npm install
 
-# Usage
+## Usage
 **Running the Transaction Example**
    To run the transaction example, use:
    ```bash
    npm run start
    node index.js
-   This will execute the transaction process using the chain module
+This will execute the transaction process using the chain module
