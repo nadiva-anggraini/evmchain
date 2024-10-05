@@ -18,24 +18,9 @@ This project provides a simple module for managing blockchain networks (chains) 
    npm install
 
 # Usage
-## Running the Transaction Example
+**Running the Transaction Example**
    To run the transaction example, use:
+   ```bash
    npm run start
-   or
    node index.js
-   This will execute the transaction process using the chain module.
-
-## Manage chains
-To manage chains (add, delete, view available chains), use:
-npm run manage
-or
-node managechain.js
-
-## Chain Management Operations
-Add Chain: Add a new chain to either testnet or mainnet.
-Delete Chain: Remove a chain from testnet or mainnet.
-View Chains: View all chains in testnet or mainnet.
-
-## Scripts
-npm run start - Runs the transaction example.
-npm run manage - Opens the chain management tool.
+   This will execute the transaction process using the chain module
