@@ -20,10 +20,8 @@ This project provides a simple module for managing blockchain networks (chains) 
 # Usage
 ## Running the Transaction Example
    To run the transaction example, use:
-   ```bash
    npm run start
    or
-   ```bash
    node index.js
    This will execute the transaction process using the chain module.
 
