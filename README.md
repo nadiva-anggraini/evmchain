@@ -23,6 +23,7 @@ To run the transaction example, use:
 ```bash
 npm run start
 # or
+```bash
 node index.js
 This will execute the transaction process using the chain module.
 
@@ -31,6 +32,7 @@ To manage chains (add, delete, view available chains), use:
 ```bash
 npm run manage
 # or
+```bash
 node managechain.js
 
 ## Chain Management Operations
