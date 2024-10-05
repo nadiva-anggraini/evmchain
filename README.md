@@ -1,6 +1,6 @@
 # Chain Management and Transaction Example
 
-This project provides a simple module for managing blockchain networks (chains) and an example of how to interact with these networks, such as sending native token transactions.
+This project provides a simple module for managing blockchain networks (chains) and an example of how to interact with these networks, such as sending native token transactions, Smart Contract Interaction, etc.
 
 ## Features
 
