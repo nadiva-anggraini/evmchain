@@ -8,11 +8,12 @@ This project provides a simple module for managing blockchain networks (chains) 
 - **Transaction Example:** Demonstrates how to send native tokens to a specified address using the available chains.
 
 ## Installation
-
+**Note: create you folder first before clone this repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nadiva-anggraini/evmchain.git
    cd your-repository
+   git clone https://github.com/nadiva-anggraini/evmchain.git
+   
 2. Install dependencies:
    ```bash
    npm install
