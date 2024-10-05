@@ -14,11 +14,13 @@ This project provides a simple module for managing blockchain networks (chains) 
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 2. Install dependencies:
+   ```bash
    npm install
 
 ## Usage
 # Running the Transaction Example
 To run the transaction example, use:
+```bash
 npm run start
 # or
 node index.js
@@ -26,6 +28,7 @@ This will execute the transaction process using the chain module.
 
 # Managing Chains
 To manage chains (add, delete, view available chains), use:
+```bash
 npm run manage
 # or
 node managechain.js
